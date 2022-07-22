@@ -31,7 +31,7 @@ const app= {
         const img = document.createElement('img')
         img.setAttribute('src', data.img);
         a.setAttribute('href', data.url);
-        a.setAttribute('alt', data.img)
+        a.setAttribute('alt', data.alt)
         indis.append(a);
         a.append(img);
     }
