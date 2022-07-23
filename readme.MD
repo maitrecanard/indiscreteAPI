@@ -26,7 +26,7 @@ Exemple
 
 ```
 
-Récupérer ensuite le script js permettant la génération et le fonctionnement de la bannière
+Récupérer ensuite le lien du script js permettant la génération et le fonctionnement de la bannière
 
 ```html
 
