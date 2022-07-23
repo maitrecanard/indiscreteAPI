@@ -32,6 +32,7 @@ const app= {
         img.setAttribute('src', data.img);
         a.setAttribute('href', data.url);
         a.setAttribute('alt', data.alt)
+        a.setAttribute('target',"_blank")
         indis.append(a);
         a.append(img);
     }
