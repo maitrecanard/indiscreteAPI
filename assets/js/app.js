@@ -1,6 +1,6 @@
 const app= {
 
-    link: 'http://testapi.mathieusiaudeau.fr/api/ban',
+    link: 'http://indiscrete.mathieusiaudeau.fr/api/ban',
 
     init: function(){
         app.loadBan();
