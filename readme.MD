@@ -43,7 +43,7 @@ assets
 
 ```
 
-Ce fichier va générer automatiquement un lien hypertexte sur une image transmise par la société indiscrète. Et vous redirigera ainsi sur le site institutionnel de l'entreprise.
+Ce fichier va générer automatiquement un lien hypertexte sur une image transmise par la société indiscrète. Lors du clique, l'utilisateur sera automatiquement redirigé sur le site institutionnel de l'entreprise.
 
 Le lien de redirection a été développer pour prendre en compte le clique des utilisateurs. Conformément à la réglementation en vigueur, aucune information personnelle sera demandée ou récolté. Nous prenons juste en compte le nombre de clique réalisé sur la bannière.
 
