@@ -1,9 +1,8 @@
 # API bannière publicitaire, pour soutenir la société Indiscrète
 ## Introduction
 
-Cette API a été réalisée en soutien à la société Indiscrète situé à Chauvigny (Vienne 86)<br>
-Celle-ci est à disposition pour toutes les entreprises ou webmaster, soutant participer à la diffusion de la bannière.
-
+Cette API a été réalisée en soutien à la société Indiscrète situé 20 rue des entrepreneurs à Chauvigny (Vienne 86300)<br>
+Ce programme est mis à disposition, pour toutes les entreprises ou webmaster souhaitant participer à la diffusion de la bannière.
 
 
 ## Installation de la bannière sur une page web
