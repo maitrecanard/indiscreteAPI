@@ -34,7 +34,7 @@ Récupérer ensuite le script js permettant la génération et le fonctionnement
 
 ```
 
-le script est disponible dans le dossier. Je vous invite à modifier le chemin du fichier à votre convenance pour l'utilisation du programme
+le script est disponible dans le dossier assets. Je vous invite à modifier le chemin du fichier à votre convenance pour l'utilisation du programme
 
 ```
 assets
