@@ -51,4 +51,4 @@ Pour toute information ou dysfonctionnement lors de l'utilisation de ce programm
 
 Merci de votre soutiens
 
-<a href="http://indiscrete.mathieusiaudeau.fr/indiscrete" alt="banniere société indiscrète Chauvigny(86)" target="_blank"><img src="http://indiscrete.mathieusiaudeau.fr/assets/img/indiscrete/ban.jpg"></a>
+<a href="http://indiscrete.mathieusiaudeau.fr/api/indiscrete" alt="banniere société indiscrète Chauvigny(86)" target="_blank"><img src="http://indiscrete.mathieusiaudeau.fr/assets/img/indiscrete/ban.jpg"></a>
