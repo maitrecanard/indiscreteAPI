@@ -1,6 +1,6 @@
 const app= {
 
-    link: 'http://indiscrete.mathieusiaudeau.fr/api/indiscrete-ban',
+    link: 'https://indiscrete.mathieusiaudeau.fr/api/indiscrete-ban',
 
     init: function(){
         app.loadBan();
